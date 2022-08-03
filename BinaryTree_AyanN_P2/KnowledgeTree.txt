@@ -1,0 +1,31 @@
+a person?
+student
+Ayan Nath
+$
+$
+Diana Nichols
+$
+$
+a place?
+Basketball Arena
+on the east coast
+Madison Square Garden
+$
+$
+Chase Center
+$
+$
+The Harker School
+$
+$
+Movie
+Star Wars
+$
+$
+animal
+dragon
+$
+$
+a binary search tree
+$
+$
