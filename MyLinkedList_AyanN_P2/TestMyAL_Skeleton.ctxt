@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestMyAL_Skeleton
+comment0.text=\n\ Demonstrates\ execution\ of\ each\ and\ every\ method\ within\ MyArrayList.\ \ \n\ \n\ @author\ Marina\ Peregrino\ \ \n\ @version\ 12\ 19,\ 2019\ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ Created\ Skeleton\ to\ outline\ some\ basic\ tests\ for\ students\ to\ create.\ \ \n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Tests\ each\ of\ the\ methods\ for\ the\ MyArrayList\:\ \n\ \n\ toString\n\ size()\n\ add(n)\n\ add(i,\ n)\n\ \n\ remove\n\ set\n\ get\n\ \n
+numComments=2

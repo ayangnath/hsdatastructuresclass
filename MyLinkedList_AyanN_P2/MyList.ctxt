@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MyList
+comment0.text=\n\ DO\ NOT\ MODIFY\ THIS\ INTERFACE.\n\ YOU\ CANNOT\ SUCCESFULLY\ COMPLETE\ THE\ LAB\ OR\ FUTURE\ LABS\ IF\ YOU\ CHANGE\ ANYTHING\n\ IN\ THIS\ INTERFACE\n\ There\ are\ no\ user\ serviceable\ parts\ inside.\n\ Altering\ this\ class\ in\ any\ way\ will\ void\ your\ warranty.\n\ @author\ Mr.\ Page\n\ @version\ 092713\n
+comment1.params=
+comment1.target=int\ size()
+comment2.params=obj
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=index\ obj
+comment3.target=void\ add(int,\ java.lang.Object)
+comment4.params=index
+comment4.target=java.lang.Object\ get(int)
+comment5.params=index\ obj
+comment5.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment6.params=index
+comment6.target=java.lang.Object\ remove(int)
+comment7.params=
+comment7.target=MyIterator\ iterator()
+comment8.params=
+comment8.target=MyListIterator\ listIterator()
+numComments=9
